@@ -10,14 +10,14 @@ export default function About() {
             <div className={styles.aboutContent}>
               <h2 className={styles.title}>Un poco sobre mí</h2>
               <p className={styles.body}>
-                Ingeniero de Sistemas Junior enfocado en DevOps y automatización de infraestructura.
+                Ingeniero de Sistemas Junior enfocado en DevOps y Backend.
                 Experiencia en ciberseguridad y redes, desarrollando lógica de alertas automatizadas
                 en Splunk y gestionando contención de amenazas. Sólida base en administración Linux,
                 contenedorización con Docker y servicios en la nube (AWS).
               </p>
               <p className={styles.body}>
                 Disfruto trabajar en todo el stack — desde scripts de automatización hasta despliegue
-                de backends con ML. Busco aplicar conocimientos de CI/CD y nube para agilizar ciclos
+                de backends. Busco aplicar conocimientos de CI/CD y nube para agilizar ciclos
                 de desarrollo y despliegue de software.
               </p>
             </div>
